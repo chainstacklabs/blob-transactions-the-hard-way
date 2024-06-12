@@ -1,2 +1,2 @@
-# blob-transactions-the-hard-way
-An explanation and a walkthrough to understand blob transactions in Ethereum
+# Blob transactions the hard way
+See Chainstack Dev Portal: [Blob transactions the hard way](https://docs.chainstack.com/docs/blob-transactions-the-hard-way)
